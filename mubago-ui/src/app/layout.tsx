@@ -6,7 +6,6 @@ export const metadata: Metadata = {
   title: "Mubago",
   description: "Secure Google Sign-in",
 };
-
 export default function RootLayout({
   children,
 }: {
